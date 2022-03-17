@@ -5,3 +5,8 @@ user_pass = 'datamites2019#'
 db_name = 'datamites_sql'
 
 -------------------------------------------
+error  - s='hi
+            there'
+correct - s='''hi
+                there'''
+-------------------------------------
